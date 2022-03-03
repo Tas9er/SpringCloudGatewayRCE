@@ -10,7 +10,7 @@
 
 java -jar SpringCloudGatewayRCE.jar
 
-![01](image\01.jpg)
+![01](\image\01.jpg)
 
 #### 0x02 Bug问题
 
